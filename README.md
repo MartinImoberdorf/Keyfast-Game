@@ -1,4 +1,4 @@
-# REFLEX 
+# Keyfast
 <img src="https://github.com/MartinImoberdorf/REFLEX/blob/main/Imgs/Imagen1.PNG" alt="Imagen Reflex" />
 
 Ready to boost your reflexes and enhance your reaction time? Dive into our thrilling new game developed with Unity and C#! This game is designed to challenge your speed and precision, pushing your limits through a series of fast-paced activities. Whether you're aiming to improve your reaction time or just looking for a fun way to stay sharp, this game has you covered. Test your reflexes, track your progress, and watch as your skills grow stronger with each playthrough. Get ready to take on the ultimate reflex challenge!
