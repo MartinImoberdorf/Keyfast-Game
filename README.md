@@ -1,9 +1,13 @@
 # Keyfast
-<img src="https://github.com/MartinImoberdorf/REFLEX/blob/main/Imgs/Imagen1.PNG" alt="Imagen Reflex" />
+<img src="https://github.com/MartinImoberdorf/Keyfast-Game/blob/main/Imgs/Imagen1.PNG" alt="Imagen Reflex" />
 
-Ready to boost your reflexes and enhance your reaction time? Dive into our thrilling new game developed with Unity and C#! This game is designed to challenge your speed and precision, pushing your limits through a series of fast-paced activities. Whether you're aiming to improve your reaction time or just looking for a fun way to stay sharp, this game has you covered. Test your reflexes, track your progress, and watch as your skills grow stronger with each playthrough. Get ready to take on the ultimate reflex challenge!
+KeyFast is an exhilarating video game developed with Unity and C# that puts your coordination and agility skills to the test. Embark on a thrilling race through 20 levels brimming with obstacles, and aim to reach the finish line in each level without touching the walls. Precision and quick reflexes are key to mastering this challenge!
 
-<img src="https://github.com/MartinImoberdorf/REFLEX/blob/main/Imgs/Imagen2.PNG" alt="Imagen Reflex" />
+With 100 lives at your disposal, you'll have multiple opportunities to perfect your strategy and conquer each level. However, every wall you touch will decrease your lives, so you'll need to be both cautious and strategic to avoid running out of lives before completing the game.
+
+Test your reflexes, enhance your dexterity, and become the ultimate master of KeyFast!
+
+<img src="https://github.com/MartinImoberdorf/Keyfast-Game/blob/main/Imgs/Imagen2.PNG" alt="Imagen Reflex" />
 
 (Only in Windows, by now)
 
